@@ -53,21 +53,31 @@ RegisterNumber:  212224240162
       acc=accuracy_score(y_test,y_pred)
       print(acc)
       dt.predict([[0.5,0.8,9,260,6,0,1,2]])
+```
 
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/b17b2fea-55fa-4684-8c1c-8a049d59d1d2)
+![Screenshot 2025-05-22 152528](https://github.com/user-attachments/assets/8613fa33-da26-4df2-966d-eb28a64984f2)
 
-![image](https://github.com/user-attachments/assets/c4f841b2-7518-482c-b1c5-177748eca526)
+![Screenshot 2025-05-22 152556](https://github.com/user-attachments/assets/e74b1700-7a72-4630-9e3d-fb1818127e0e)
 
-![image](https://github.com/user-attachments/assets/a8772d15-0aca-4671-987e-ef6fed41f7af)
+![Screenshot 2025-05-22 152657](https://github.com/user-attachments/assets/266f89bd-45bf-49c1-9d5a-b13f1bac95b8)
 ```
+
 0.9793333333333333
 /usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but DecisionTreeClassifier was fitted with feature names
   warnings.warn(
 array([1])
 ```
+
+
+
+
+
+
+
+
 
 
 
